@@ -1,0 +1,17 @@
+composer.phar
+
+/data/cache/
+/data/upload/
+/data/log/
+/config/local/
+
+/vendor/
+
+*.DS_Store
+*module-cache/
+
+/nbproject/private/
+/nbproject/
+
+/phpunit.xml
+.idea/
